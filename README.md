@@ -9,4 +9,4 @@ Megan Williamson
 
 - Java Fundamentals
 - Building Java Web APIs
-  - Intro to Maven, Spring, and Tomcat
+  - [Intro to Maven, Spring, and Tomcat](/contents/intro-to-mst.md)
