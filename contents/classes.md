@@ -64,7 +64,43 @@ Every time `maxId` is changed, the change will affect other object instances of 
 
 ### Access Modifiers
 
+__Purpose__
+
+Access modifiers control which variables and methods outside classes may see. The two most common access modifiers are `public` and `private`. `Public` grants access to all other classes while `private` denies direct access to outside classes. `Private` `fields` and `methods` are only accessible within the class, which enforces `encapsulation`. `Private` data may be accessed by using `public methods` in the class called `getters` (get data) and `setters` (set data).
+
+```
+private String firstName = "Meg";
+
+public String getFirstName() {
+  return firstName;
+}
+```
+
+***
+
 ### Method Declaration
+
+Similar to class declaration, methods don't require much in their simplest form, but more complexity may be added depending on what the method needs to achieve. A method declaration must have a return type, a name, and a body.
+
+```
+String greet() {
+  // statements
+}
+```
+`String` is the return type of `greet()`. If `greet()` fails to return a `String`, an error results.
+
+```
+modifiers return-type methodName(parameter-list) exception-list {
+  // body
+}
+```
+Method declarations may include all of the following: multiple modifiers, its return type, its name, a parameter list, an exception list, and its body.
+
+* the method name + its parameter types is called a `method signature`
+
+__Method Overloading__
+
+Methods in a class may have the same name if their method signatures are different, which means their parameter types must be different to allow them to share the same name. `sayName(String name)` is different than `sayName(Person person)` and `getTacos(int amount)` is different than `getTacos(int amount, String type)`.
 
 ***
 
