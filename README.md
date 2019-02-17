@@ -1,7 +1,7 @@
 # JX-documentation
-A repository for notes and resources related to @LambdaSchool's JX course
+A repository for notes and resources related to @LambdaSchool's JX course. The contents and examples of this repo are supplementary to the JX course and are for my own personal learning; this is not official Lambda School curriculum.
 
-# Contributor 🚧
+# Contributor 👋
 
 Megan Williamson
 
