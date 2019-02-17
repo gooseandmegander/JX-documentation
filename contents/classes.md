@@ -113,5 +113,3 @@ Methods in a class may have the same name if their method signatures are differe
 Resources
 
 [The Java Tutorials - Classes]()
-
-[Top](#📂-Classes) ☝️
