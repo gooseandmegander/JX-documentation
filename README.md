@@ -18,3 +18,10 @@ A repository for notes and resources related to @LambdaSchool's JX course. The c
   - [Java I - Classes](/contents/classes.md)
 - Building Java Web APIs
   - [Intro to Maven, Spring, and Tomcat](/contents/intro-to-mst.md) 🚧
+  
+## Example Code
+Some topics may have associated code examples available within the repo. On each page where example code is available, there is a section:
+
+__Example code__: [links-to-code-directory]()
+
+To download and run the code, follow the directions in the root directory's README.md
