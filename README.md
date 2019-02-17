@@ -2,7 +2,7 @@
 A repository for notes and resources related to @LambdaSchool's JX course. The contents and examples of this repo are supplementary to the JX course and are for my own personal learning; this is not official Lambda School curriculum.
 
 ***
-# Contributor 👋
+## Contributor 👋
 
 | [<img src="https://avatars3.githubusercontent.com/u/16904116?s=400&v=4" width="80">](https://github.com/gooseandmegander) |
 |:----------------:|
@@ -11,7 +11,7 @@ A repository for notes and resources related to @LambdaSchool's JX course. The c
 
 ***
 
-# Contents 🚧
+## Contents 🚧
 
 - Java Fundamentals
   - [Java I - JDK](/README.md) 🚧
