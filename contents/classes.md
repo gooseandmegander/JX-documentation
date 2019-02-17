@@ -6,6 +6,8 @@
 - [Access Modifiers](#Access-Modifiers)
 - [Method Declaration](#Method-Declaration)
 
+***
+
 ## General
 
 __Anatomy of a class__
@@ -34,6 +36,8 @@ __Purpose of classes__
 
 Classes provide a means of creating objects which share similar components or behavior. A class object is an instance of the class that defined it.
 
+***
+
 ### Member Variables
 
 __Kinds of variables__
@@ -61,6 +65,8 @@ static int maxId = 0;
        int counter = 0;
 ```
 Every time `maxId` is changed, the change will affect other object instances of the class. This is one way a class may implement ids for its object instances within itself. When `counter` is changed, the change only pertains to the `counter` field of that specific object instance.
+
+***
 
 ### Access Modifiers
 
@@ -107,5 +113,3 @@ Methods in a class may have the same name if their method signatures are differe
 Resources
 
 [The Java Tutorials - Classes]()
-
-[Top](#Classes) ☝️
